@@ -1,0 +1,9 @@
+Package: KiraDR
+Type: Package
+Title: DimensionalityReduction
+Version: 1.0
+Date: 2018-10-23
+Author: 1001001ii
+Maintainer: 1001001ii <xx19960514@163.com>
+Description: pca and efa
+License: everyone
